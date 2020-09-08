@@ -10,5 +10,5 @@ This GUI software was developed to deconvolute size exclusion chromatograms. Reg
 - guiPost: Data post-processing GUI
 # Installation and Tutorial
 Please see the PDF manual.
-# How to cite?
-A research paper explaining the algorithm and its application was submitted to a journal. Once citation information is available, it will be posted.
+# To Cite this work
+Minkyu Park, Doorae Lee, Shane A. Snyder, "Deconvolution of Size Exclusion Chromatograms: New Insights into the Molecular Weight Distribution of Dissolved Organic Matter in Ozone and Biological Activated Carbon", ACS ES&T Water, https://doi.org/10.1021/acsestwater.0c00020
